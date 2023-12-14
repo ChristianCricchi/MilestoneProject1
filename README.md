@@ -11,11 +11,11 @@ The project will be developed in 5 phases called:
 
  |  **Plane**   |                   **Objective of this phase**                     |
  | --------------- | ----------------------------------------------------------------- |
- | Strategy  | What is the primary goal, and what is the project target audience | 
- | Scope     | Which design features do you want include in the design           |
- | Structure | The information is arranged in a structured manner                |
- | Skeleton  | How the information is presented, and what methods will users use to navigate tothe information and features |
- 
+ | Strategy  | What is the primary goal, and what is the project target audience. | 
+ | Scope     | Which design features do you want include in the design.           |
+ | Structure | The information is arranged in a structured manner.                |
+ | Skeleton  | How the information is presented, and what methods will users use to navigate to the information and features. |
+ | Surface   | What is the choises made for the design elements, color etc.       |
 
 
   
