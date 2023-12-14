@@ -19,7 +19,7 @@ The project will be developed in 5 phases called:
  | Skeleton  | How the information should be implemented.                         |
  | Surface   | What is the choises made for the design elements, color etc.                                            |
 
- ![My Image](![g](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/344af1e2-a73b-4814-b035-0ba045bca4bc)
+ ![My Image](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/344af1e2-a73b-4814-b035-0ba045bca4bc)
 
 
 
