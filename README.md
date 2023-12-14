@@ -14,7 +14,7 @@ The project will be developed in 5 phases called:
  | Strategy  | What is the primary goal, and what is the project target audience. | 
  | Scope     | Which design features do you want include in the design.           |
  | Structure | The information is arranged in a structured manner.                |
- | Skeleton  | How the information is presented, and what methods will users use  |
+ | Skeleton  | How the information is presented, and what methods will users use to navigate to the information  |
  | Surface   | What is the choises made for the design elements, color etc.       |
 
  ![My Image](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/d575a941-de35-4446-8c0e-c8bfb7fa0677)
