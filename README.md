@@ -9,5 +9,9 @@ The project will be developed in 5 phases called:
 * Skeleton plane
 * Surface plane
 
+|  **Strategy**   |                   **Objective of this phase**                     |
+| --------------- | ----------------------------------------------------------------- |
+| Strategy plane  | What is the primary goal, and what is the project target audience | 
+
 
   
