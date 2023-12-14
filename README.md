@@ -17,9 +17,9 @@ The project will be developed in 5 phases called:
  | Scope     | Which design features do you want include in the design.           |
  | Structure | The information is arranged in a structured manner.                |
  | Skeleton  | How the information should be implemented.                         |
- | Surface   | What is the choises made for the design elements, color etc.                                            |
+ | Surface   | What is the choises made for the design elements, color etc.                                       |
 
- ![My Image](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/344af1e2-a73b-4814-b035-0ba045bca4bc)
+![Ob](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/d6e1532c-bbe5-4088-9ed9-27c4bc8edc39)
 
 
 
