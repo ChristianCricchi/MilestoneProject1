@@ -17,8 +17,8 @@ The project will be developed in 5 phases called:
  | Skeleton  | How the information is presented, and what methods will users use to navigate to the information and features. |
  | Surface   | What is the choises made for the design elements, color etc.       |
 
- ![My Image] (.C:/Users![ggfgsdfgsd drawio](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/d575a941-de35-4446-8c0e-c8bfb7fa0677)
-/vivia/Downloads)
+ ![My Image](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/d575a941-de35-4446-8c0e-c8bfb7fa0677)
+
 
 
   
