@@ -12,7 +12,7 @@ The project will be developed in 5 phases called:
  |  **Strategy**   |                   **Objective of this phase**                     |
  | --------------- | ----------------------------------------------------------------- |
  | Strategy plane  | What is the primary goal, and what is the project target audience | 
- | Scope plane     | Which design features do you want include in the design |
+ | Scope plane     | Which design features do you want include in the design           |
  
 
 
