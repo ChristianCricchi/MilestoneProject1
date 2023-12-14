@@ -11,6 +11,7 @@ The project will be developed in 5 phases called:
 * Skeleton plane
 * Surface plane
 
+<p style="text-align:justify;">
  |  **Plane**   |                   **Objective of this phase**                   |
  | --------- | -----------------------------------------------------------------  |
  | Strategy  | What is the primary goal, and what is the project target audience. | 
@@ -20,7 +21,7 @@ The project will be developed in 5 phases called:
  | Surface   | What is the choises made for the design elements, color etc.                                            |
 
  ![My Image](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/d575a941-de35-4446-8c0e-c8bfb7fa0677)
-
+</p>
 
 
   
