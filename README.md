@@ -63,7 +63,7 @@ The project will be developed in 5 phases called:
  ### Strategy - Research (Consumers)
 <p style="text-align:justify;">Another perspective to take in consideration is the perspective of consumers.</p>
 
-1. *What makes a great [] experience?*
+1. *What makes a great [  ] experience?*
    1. Asking consumers aboout the elements that contribute having an excellent experience.
    2. Asking how do consumers visit or use the application.
 2. *What the consumers uses the most and what their primary activity is.*
