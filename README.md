@@ -1,4 +1,4 @@
-# **Milestone Project 1**
+# **Milestone Project 1 Guidelines**
 ## __Introduction__
 
 <p style="text-align:justify;">The guide lines for the development of this first project are crucial to ensure a solid structure and effective progress. Here are the key principles on which this project is based. The recommended materials during the HTML and CSS course have been used.</p>
@@ -44,21 +44,46 @@ The project will be developed in 5 phases called:
   ### Strategy - Research (Bussiness)
 <p style="text-align:justify;">In this phase, following the conducted research and analisis, it is important acquire a deeper understanding of the bussinnes.</p>
 
-1. *What is your day to day role.*
+1. *What is your day to day role?*
    1. What are the activities that are carried out daily by your system?
    2. Interview potential users.
-2. *What function do you perferm.*
+2. *What function do you perferm?*
    1. What are the function that are performed in your  system?
    2. Interview potential users.
-3. *What other function are present.*
+3. *What other function are present?*
    1. What other types of functions are present?
    2. Interview potential users.
-4. *How those function interact.*
+4. *How those function interact?*
    1. Discovering the connection between the different functions of your system.
-5. *How does it compare to other experiences .*
+5. *How does it compare to other experiences?*
    1. It isimportant to make comparisons with other systems.
-6. *What technology siystems do you use?
-   1. It is important to know what is the technology that is in use. 
+6. *What technology siystems do you use?*
+   1. It is important to know what is the technology that is in use.
+
+ ### Strategy - Research (Consumers)
+<p style="text-align:justify;">Another perspective to take in consideration is the perspective of consumers.</p>
+
+1. *What makes a great [] experience?*
+   1. Asking consumers aboout the elements that contribute having an excellent experience.
+   2. Asking how do consumers visit or use the application.
+2. *What the consumers uses the most and what their primary activity is.*
+   1. Ask where would they go first and why?
+   2.  What do you most use it for?
+3. *What they want and why.*
+   1. Asking what they would and why?
+   2. Asking what the consumer do before and after using the product.
+4. *Who is the target audience.*
+   1. What the demographic/demographics and social audience.
+5. *How is offering difference from competitors?*
+   1. How we differentiate ourselves from our competitors?
+  
+### Strategy - How decide decide what keep and what do not keep.
+1. It is important to make a list of oppportunities and prioritise them based on:
+   1. *Importance*
+      1. How crucial is that? the problem for the bussiness is solved?
+   2. *Viability*
+      1. How realistic it is, it is possible to implement a solution? 
+
  
 
 
