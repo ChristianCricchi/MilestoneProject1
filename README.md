@@ -35,7 +35,11 @@ The project will be developed in 5 phases called:
    1. Another important point is to analyse the work that competitors are doing and investigate how they are doing it.
 3. User Interviews.
    1. Through questions or surveys, ask users what they think, what their opinions are, and what their needs are.
-4. 
+4. Existing Produc Audit.
+   1. If we are working with an existing product, investigate what works and what does not, ask customers what they would 
+      change, inquire whit users.
+5. Analise and Review.
+   1. When we have all this data available, we need to perform an analisis and a review.
 
 
 
