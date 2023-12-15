@@ -38,6 +38,12 @@ The project will be developed in 5 phases called:
 their needs and requests, and ask questions.
 Another importa point is to analyase the work that our competitors are doing and investigate how they are doing it.
 
+1. Item 1
+   1. Subitem 1.1
+   2. Subitem 1.2
+2. Item 2
+   1. Subitem 2.1
+   2. Subitem 2.2
 
 
 
