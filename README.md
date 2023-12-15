@@ -82,7 +82,20 @@ The project will be developed in 5 phases called:
    1. *Importance*
       1. How crucial is that? the problem for the bussiness is solved?
    2. *Viability*
-      1. How realistic it is, it is possible to implement a solution? 
+      1. How realistic it is, it is possible to implement a solution?
+
+
+ ## Scope
+ <p style="text-align:justify;">In the strategic phase, it is crucial to define what options are being considered and what is excluded from consideration. Further refinement occurs at Scope level where it is important to decide which features aligned with business objectives and user need are in or out of the Scope.</p> 
+
+1. It is important defined a *scope* and resolves conflict early.
+   1. Try to get a good pictures of features and contend that are available at this point.
+2. *Document* what is in and what is out for now.
+3. *Agile* approach.
+   1. This approach give the opportunity to minimizes documentation.
+   2. Means committing small increaments of development.
+
+
 
  
 
