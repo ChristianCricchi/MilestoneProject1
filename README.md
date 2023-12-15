@@ -41,6 +41,29 @@ The project will be developed in 5 phases called:
 5. *Analise and Review.*
    1. When we have all this data available, we need to perform an analisis and a review.
 
+  ### Strategy - Research (Bussiness)
+<p style="text-align:justify;">In this phase, following the conducted research and analisis, it is important acquire a deeper understanding of the bussinnes.</p>
+
+1. *What is your day to day role.*
+   1. What are the activities that are carried out daily by your system?
+   2. Interview potential users.
+2. *What function do you perferm.*
+   1. What are the function that are performed in your  system?
+   2. Interview potential users.
+3. *What other function are present.*
+   1. What other types of functions are present?
+   2. Interview potential users.
+4. *How those function interact.*
+   1. Discovering the connection between the different functions of your system.
+5. *How does it compare to other experiences .*
+   1. It isimportant to make comparisons with other systems.
+6. *What technology siystems do you use?
+   1. It is important to know what is the technology that is in use. 
+ 
+
+
+
+
 
 
 
