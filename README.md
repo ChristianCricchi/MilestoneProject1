@@ -1,4 +1,4 @@
-p# **Milestone Project 1 Guidelines**
+# **Milestone Project 1 Guidelines**
 ## __Introduction__
 
 <p style="text-align:justify;">The guide lines for the development of this first project are crucial to ensure a solid structure and effective progress. Here are the key principles on which this project is based. The recommended materials during the HTML and CSS course have been used.</p>
