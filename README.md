@@ -29,7 +29,7 @@ The project will be developed in 5 phases called:
 <p style="text-align:justify;">After the first step, it is crucial to conduct research. To start a focused research, it is important to follow the step below:</p>
 
 1. Stakeholder Interview.
-..1. The number one point is crucial, and it is of fundamental importance to engage whth stakeholders, thoroughly understand. 
+⋅⋅1. The number one point is crucial, and it is of fundamental importance to engage whth stakeholders, thoroughly understand. 
 2. Competitorr review
 3. User Interview or research
 4. Existing product audit
