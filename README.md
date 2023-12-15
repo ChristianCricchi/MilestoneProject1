@@ -28,17 +28,17 @@ The project will be developed in 5 phases called:
 ### Strategy - Research
 <p style="text-align:justify;">After the first step, it is crucial to conduct research. To start a focused research, it is important to follow the step below:</p>
 
-1. Stakeholder Interview.
+1. *Stakeholder Interview.*
    1. The number one point is crucial, and it is of fundamental importance to engage with stakeholders, thoroughly   
       understand their needs and requests, and ask questions.
-2. Competitorr review.
+2. *Competitor review.*
    1. Another important point is to analyse the work that competitors are doing and investigate how they are doing it.
-3. User Interviews.
+3. *User Interviews.*
    1. Through questions or surveys, ask users what they think, what their opinions are, and what their needs are.
-4. Existing Produc Audit.
+4. *Existing Produc Audit.*
    1. If we are working with an existing product, investigate what works and what does not, ask customers what they would 
       change, inquire whit users.
-5. Analise and Review.
+5. *Analise and Review.*
    1. When we have all this data available, we need to perform an analisis and a review.
 
 
