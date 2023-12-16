@@ -86,9 +86,9 @@ The project will be developed in 5 phases called:
 
 
  ## Scope
- <p style="text-align:justify;">In the strategic phase, it is crucial to define what options are being considered and what is excluded from consideration. Further refinement occurs at Scope level where it is important to decide which features aligned with business objectives and user need are in or out of the Scope.</p> 
+<p style="text-align:justify;">In the strategic phase, it is crucial to define what options are being considered and what is excluded from consideration. Further refinement occurs at Scope level where it is important to decide which features aligned with business objectives and user need are in or out of the Scope.</p> 
 
- ### Scope - Trade Offs
+### Scope - Trade Offs
 
 1. It is important defined a *scope*.
    1. Strive to obtain a comprehensive overview of the features and content currently.
@@ -105,6 +105,22 @@ The project will be developed in 5 phases called:
 6. *Identify* what need to be done now and what can wait.
 7. *Create* your Sprint.
    1. Sprint is a diratiom in time in which you commit to building something.
+
+### Scope - Requirement
+
+The scope revolves around requirements and functional specifications.
+1. What users and stakeholders say they need.
+2. What they actually need.
+3. What they do not to need.
+
+<p style="text-align:justify;">In software development, a requirement is a documented description of a function, capability or characteristic that a software system must possess. Requirements serve as foundation for designing, implementing, and testing software providing a clear undestanding of what the software should accomplish and how should behave.</p> 
+
+1. *Funtional requirements.*
+   1. Specify the system behaviour
+2. *Non functional requirements*
+   1. Define  qualities like performance, usbillity, and security.
+
+The goal is to ensure that the software meets the needs and specifications of its users.
 
 
 
