@@ -77,7 +77,7 @@ The project will be developed in 5 phases called:
 5. *How is offering difference from competitors?*
    1. How we differentiate ourselves from our competitors?
   
-### Strategy - How decide decide what keep and what do not keep.
+### Strategy - How decide what keep and what do not keep.
 1. It is important to make a list of oppportunities and prioritise them based on:
    1. *Importance*
       1. How crucial is that? the problem for the bussiness is solved?
@@ -116,11 +116,15 @@ The scope revolves around requirements and functional specifications.
 <p style="text-align:justify;">In software development, a requirement is a documented description of a function, capability or characteristic that a software system must possess. Requirements serve as foundation for designing, implementing, and testing software providing a clear undestanding of what the software should accomplish and how should behave.</p> 
 
 1. *Funtional requirements.*
-   1. Specify the system behaviour
+   1. Specify the system behaviour.
 2. *Non functional requirements*
    1. Define  qualities like performance, usbillity, and security.
+3. *Scalability*
+   1. Refers to the ability of a system or application  
 
 The goal is to ensure that the software meets the needs and specifications of its users.
+
+
 
 
 
