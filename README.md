@@ -120,7 +120,7 @@ The scope revolves around requirements and functional specifications.
 2. *Non functional requirements*
    1. Define  qualities like performance, usbillity, and security.
 3. *Scalability*
-   1. Refers to the ability of a system or application  
+   1. Refers to the ability of a system or application  to handle a growing amount of work, data or users.
 
 The goal is to ensure that the software meets the needs and specifications of its users.
 
