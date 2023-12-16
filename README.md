@@ -106,7 +106,7 @@ The project will be developed in 5 phases called:
 7. *Create* your Sprint.
    1. Sprint is a diratiom in time in which you commit to building something.
 
-### Scope - Requirement
+### Scope - Requirements
 
 The scope revolves around requirements and functional specifications.
 1. What users and stakeholders say they need.
@@ -128,7 +128,7 @@ The scope revolves around requirements and functional specifications.
       1. A standard template could be:
          1. **Type of user:** Describe the user or role involved.
          2. **Action:** Specifies what the user wants to accomplish.
-         3. **Benefit/value** Explain the reason or benefit  the user gains from completing tha action. 
+         3. **Benefit/value:** Explain the reason or benefit  the user gains from completing tha action. 
 
 The goal is to ensure that the software meets the needs and specifications of its users.
 
