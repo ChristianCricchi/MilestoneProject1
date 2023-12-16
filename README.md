@@ -88,6 +88,8 @@ The project will be developed in 5 phases called:
  ## Scope
  <p style="text-align:justify;">In the strategic phase, it is crucial to define what options are being considered and what is excluded from consideration. Further refinement occurs at Scope level where it is important to decide which features aligned with business objectives and user need are in or out of the Scope.</p> 
 
+ ### Scope - Trade Offs
+
 1. It is important defined a *scope*.
    1. Strive to obtain a comprehensive overview of the features and content currently.
 2. *Document*.
@@ -99,6 +101,11 @@ The project will be developed in 5 phases called:
    3. It is also important to keep the documentation to a minimun.
 4. *Simplify* the features.
    1. Maintain a manageble schedule, and establish your critical milestones.
+5. *Now* new idea can be posponed for a future release.
+6. *Identify* what need to be done now and what can wait.
+7. *Create* your Sprint.
+   1. Sprint is a diratiom in time in which you commit to building something.
+
 
 
 
