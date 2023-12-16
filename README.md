@@ -121,6 +121,14 @@ The scope revolves around requirements and functional specifications.
    1. Define  qualities like performance, usbillity, and security.
 3. *Scalability*
    1. Refers to the ability of a system or application  to handle a growing amount of work, data or users.
+4. *User story*
+   1. Is a concise, informal description of a feature. functionality , or task from and-users perspective.
+   2. Normally follows a simple template that includes a persona, a specific action and an intended outcome.
+   3. The purpose is to capture the requirements and expectation of users.
+      1. A standard template could be:
+         1. **Type of user:** Describe the user or role involved.
+         2. **Action:** Specifies what the user wants to accomplish.
+         3. **Benefit/value** Explain the reason or benefit  the user gains from completing tha action. 
 
 The goal is to ensure that the software meets the needs and specifications of its users.
 
