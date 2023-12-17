@@ -35,7 +35,7 @@ The project will be developed in 5 phases called:
    1. Another important point is to analyse the work that competitors are doing and investigate how they are doing it.
 3. *User Interviews.*
    1. Through questions or surveys, ask users what they think, what their opinions are, and what their needs are.
-4. *Existing Produc Audit.*
+4. *Existing Product Audit.*
    1. If we are working with an existing product, investigate what works and what does not, ask customers what they would 
       change, inquire whit users.
 5. *Analise and Review.*
@@ -47,7 +47,7 @@ The project will be developed in 5 phases called:
 1. *What is your day to day role?*
    1. What are the activities that are carried out daily by your system?
    2. Interview potential users.
-2. *What function do you perferm?*
+2. *What function do you perform?*
    1. What are the function that are performed in your  system?
    2. Interview potential users.
 3. *What other function are present?*
@@ -131,6 +131,52 @@ The scope revolves around requirements and functional specifications.
          3. **Benefit/value:** Explain the reason or benefit  the user gains from completing tha action. 
 
 The goal is to ensure that the software meets the needs and specifications of its users.
+
+## Structure
+
+<p style="text-align:justify;">The structural aspect focuses on arranging functions and content, ensuring an intuitive flow through the features and information. Structure also encompases the categorization of information and deals with how it is presented and organised. The goal of this step is to guarantee an intuitive organisation and presentation of information. Select the framework with consideration of the audience and cultural context. It is important  undersatand the demographic of the users, know the users and make sure that the structure aligns with the targeted audience</p> 
+
+### Structure - Interaction Design
+
+Interaction design is also a focus within the structural aspect.
+
+1. Interaction design entails defining both the structure and behavior of interactive systems.
+2. It establishes significant connections among the elements, the contents, and the information.
+3. Communicates funtionality and interactivity.
+4. Reveals workflows.
+5. It reduces the risk of user error.
+
+The elements of interaction design can be categorised into five concerns:
+1. *Consistent.*
+2. *Predictable.*
+3. *Learnable.*
+4. *Visible.*
+5. *Provide clear and intuitive feedback.*
+
+### Structure - Architecture
+
+Another key focus of the  structural aspects is information architecture, it takes on the responsability of crafting organisational and navigational structures. Effective information also permits owners to adapt to growth and changes.
+
+#### Architecture Types:
+
+ 1. *Tree structure*
+    1. It follows a conventional layout, simplifying complexity by progressively revealing information and structures while navigating up and down the three. It poses some challenge on mobile divices. If a user has to go through more than three clicks to reach their destination, it is like to result in congnitive overload.
+       1. *Cognitive overload* in the context of design happens when users are overwhelmed by too much information, complex navigation etc.
+2. *Nested list*
+   1. It is designed to work seamlessly on mobile devices, offering a strightforward jorney to detail information. While it simplifies complexity by providing a clearly defined path to the destination, it may limit exploration due to its linear nature.
+3. *Hub and Spoke*
+   1. This structures has a central home point that has links to various spokes, each holding specific sections of informations. This structure is effective for apps with multiple features. It does not allows direct navigation between the spokes, it is necessary to return to the central home before moving to another spoke.
+4. *Dashboard*
+   1. It proves highly  beneficial for quickly accessing key information at a glance. The primary dashboard elements can be expanded to diaplay detailed views of the information. The dashboar provides a summary, and cliking on its elements unveils more detailed information. This design is better suited for desktop usage.
+ 
+
+
+
+
+
+
+
+
 
 
 
