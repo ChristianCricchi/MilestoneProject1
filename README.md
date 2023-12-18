@@ -219,6 +219,12 @@ Though the construction of a wireframe it is possible to:
 
 Start a wireframe with *pen* and *paper*.
 
+ ## Surface
+
+What is visible on the surface plane?  
+A visual languagge is crafted, serving to convey information and context. It encompasses such as color, layout, fonts, images, order, sequence, andthe site's identity. This visual languaage also emphasises efficiency, ensuring that the most crucial elements are readily identifiable. 
+ 
+
 
 
 
