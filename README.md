@@ -199,7 +199,7 @@ The skeleton aspect revolves around features and practicality. Usability is enha
    3. Do not move expected elements in a different location.
    4. Do not drop the navigation down to the bottom of a screen on a page.
 
-### Skeleton -Wireframe
+### Skeleton - Wireframe
 
 It is a two-dimentional model of what eventually will become the finished product. The purpose of a Wireframe is to outline the structure , information, and layout volume. However it is important to note that a wireframe serves as the initial stage in the design process.
 
