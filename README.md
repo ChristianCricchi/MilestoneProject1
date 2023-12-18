@@ -213,7 +213,7 @@ Though the construction of a wireframe it is possible to:
 2. User experience within the site space.
 3. Ask: "Have I covered everithing?
 4. Is the primary content immediately noticeable?
-5. Provide an opportunity to reassessstrategy and abjectives.
+5. Provide an opportunity to reassess strategy and abjectives.
 6. Posing questions about value and correctness.
 7. If adjustement are necessary, wireframe guide to identify and revusing elements accordingly.
 
