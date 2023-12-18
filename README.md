@@ -21,7 +21,8 @@ The project will be developed in 5 phases called:
 
 ## Strategy
 #### In this first part of the strategy, it is importante to ask questions:
-![StrategyQuest](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/be09a827-66c7-4f8b-ae87-f6822ac314c9)
+
+![Question 2](https://github.com/ChristianCricchi/MilestoneProject1/assets/122015372/64926211-b33c-4072-9b49-4fb59b41f3f2)
 
 <p style="text-align:justify;">As can see from the diagram it is crucial to know and inquire about the  what actions is one considering  taking, the added value that can be provided, wheter  what is being planned is culturally appropriate, and whether one is targeting the desired audience, and so on.</p>
 
