@@ -199,6 +199,27 @@ The skeleton aspect revolves around features and practicality. Usability is enha
    3. Do not move expected elements in a different location.
    4. Do not drop the navigation down to the bottom of a screen on a page.
 
+### Skeleton -Wireframe
+
+It is a two-dimentional model of what eventually will become the finished product. The purpose of a Wireframe is to outline the structure , information, and layout volume. However it is important to note that a wireframe serves as the initial stage in the design process.
+
+Though the construction of a wireframe it is possible:
+1. Visualise the integration of each screen within the entire website.
+2. Allows to identify the necessary links and content to fullfill user needs.
+3. Assess the balance and relationship  among the various elements.
+
+Though the construction of a wireframe it is possible to:
+1. Inform about inclusion, organisation, prioritisation, placement of elements, user navigation.
+2. User experience within the site space.
+3. Ask: "Have I covered everithing?
+4. Is the primary content immediately noticeable?
+5. Provide an opportunity to reassessstrategy and abjectives.
+6. Posing questions about value and correctness.
+7. If adjustement are necessary, wireframe guide to identify and revusing elements accordingly.
+
+Start a wireframe with *pen* and *paper*
+
+
 
 
 
