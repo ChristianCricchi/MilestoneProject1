@@ -168,7 +168,41 @@ Another key focus of the  structural aspects is information architecture, it tak
    1. This structures has a central home point that has links to various spokes, each holding specific sections of informations. This structure is effective for apps with multiple features. It does not allows direct navigation between the spokes, it is necessary to return to the central home before moving to another spoke.
 4. *Dashboard*
    1. It proves highly  beneficial for quickly accessing key information at a glance. The primary dashboard elements can be expanded to diaplay detailed views of the information. The dashboar provides a summary, and cliking on its elements unveils more detailed information. This design is better suited for desktop usage.
- 
+
+ ## Skeleton
+
+ This step concern navigation design and interface design.
+ 1. What are its main consoderations?
+ 2. What shape will the application will assume?
+ 3. How will users navigate through it?
+ 4. How it is possible present the content?
+
+### Skeleton - Features and usefulness
+
+The skeleton aspect revolves around features and practicality. Usability is enhanced when similar component are presented in consistent ways
+
+1. The primary content sections on each pages should share a uniform structure.
+2. No surprice for the user.
+3. The contentn may differ, but the general shape and the perception should remain persistent.
+4. Another aspect of the sheleton is the progressive disclosure:
+   1. Reveal information over the *time* a and *space*.
+   2. Group elements together in order of importance.
+5. Features:
+   1. More features on the screen, it is less user-friendly.
+   2. Features increase in complexity, usability decrease.
+   3. Nice and simple.
+6. Navigation (*How we find what we want*):
+   1. It is possible to use icons, but they shoud provide clear meanings, and they shold be familiar object.
+7. Consistency:
+   1. It is important to ensure the same interaction and behaviours across our content.
+   2. Do not rearrange the the order.
+   3. Do not move expected elements in a different location.
+   4. Do not drop the navigation down to the bottom of a screen on a page.
+
+
+
+
+
 
 
 
