@@ -217,7 +217,7 @@ Though the construction of a wireframe it is possible to:
 6. Posing questions about value and correctness.
 7. If adjustement are necessary, wireframe guide to identify and revusing elements accordingly.
 
-Start a wireframe with *pen* and *paper*
+Start a wireframe with *pen* and *paper*.
 
 
 
