@@ -10,7 +10,7 @@
 ### **External user's goal**
 <p style="text-align:justify;">The website users are individuals who are potentially interested in making a lifestyle and diet change. 
 These users are looking to explore veganism and want to learn more about the topic, including what veganism is. Looking for recommended books
-readings and recepies. They are individuals who are open to transitioning towards veganismand seek additiional insight into this lifestyle.</p>
+readings and recepies. They are individuals who are open to transitioning towards veganism and seek additiional insight into this lifestyle.</p>
 
 ### **Site user's goal**
 <p style="text-align:justify;">The group, through the website, aims to provide information about veganism and raise awareness about the benefits of this lifestyle. 
